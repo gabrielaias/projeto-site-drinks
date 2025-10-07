@@ -1,0 +1,10 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de configuração da IDE JetBrains
+.idea/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
