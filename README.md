@@ -47,6 +47,12 @@ Como este é um projeto de front-end estático, não há necessidade de instala�
 2. Navegue até a pasta do projeto.
 3. Abra o arquivo `index.html` em seu navegador de preferência.
 
+## 🌐 Deploy
+
+Clique no botão abaixo para visualizar o projeto online.
+
+[![Deploy no GitHub Pages](https://img.shields.io/badge/Ver%20Projeto%20Online-Acessar-blue?style=for-the-badge&logo=github)](https://gabrielaias.github.io/projeto-site-drinks/)
+
 ## 👨‍💻 Autores
 
 - **Gabriel Aías**
